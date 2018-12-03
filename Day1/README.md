@@ -1,4 +1,4 @@
-##--- Day 1: Chronal Calibration ---
+## --- Day 1: Chronal Calibration ---
 "We've detected some temporal anomalies," one of Santa's Elves at the Temporal Anomaly Research and Detection Instrument Station tells you. She sounded pretty worried when she called you down here. "At 500-year intervals into the past, someone has been changing Santa's history!"
 
 "The good news is that the changes won't propagate to our time stream for another 25 days, and we have a device" - she attaches something to your wrist - "that will let you fix the changes with no such propagation delay. It's configured to send you 500 years further into the past every few days; that was the best we could do on such short notice."
@@ -21,7 +21,7 @@ For example, if the device displays frequency changes of +1, -2, +3, +1, then st
 > 
 > In this example, the resulting frequency is 3.
 
-#####Here are other example situations:
+##### Here are other example situations:
 
 > +1, +1, +1 results in  3
 > 
@@ -31,9 +31,9 @@ For example, if the device displays frequency changes of +1, -2, +3, +1, then st
 > 
 Starting with a frequency of zero, what is the resulting frequency after all of the changes in frequency have been applied?
 
-#####Your puzzle answer was 582.
+##### Your puzzle answer was 582.
 
-##--- Part Two ---
+## --- Part Two ---
 You notice that the device repeats the same frequency change list over and over. To calibrate the device, you need to find the first frequency it reaches twice.
 
 For example, using the same list of changes above, the device would loop as follows:
@@ -66,4 +66,4 @@ Here are other examples:
 
 What is the first frequency your device reaches twice?
 
-#####Your puzzle answer was 488.
+##### Your puzzle answer was 488.
