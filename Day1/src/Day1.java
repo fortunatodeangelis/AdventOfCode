@@ -3,6 +3,7 @@ import java.util.Set;
 import java.util.HashSet;
 import java.util.List;
 
+
 public class Day1 {
 
     public static void main(String[] args) {
@@ -11,7 +12,7 @@ public class Day1 {
         List<Integer> inputList = new ArrayList<Integer>();
 
         File fileInput = new File();
-        fileInput.setFilePath("input.txt");
+        fileInput.setFilePath("Day1/input.txt");
         fileInput.open();
 
         // Parte 1
