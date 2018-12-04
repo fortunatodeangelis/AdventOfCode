@@ -14,3 +14,4 @@ These are proposed submissions for the [Advent of Code 2018](http://adventofcode
 Lang: Java, IDE: IntelliJ IDEA
 
 Day 1 ([here](https://github.com/fortunatodeangelis/AdventOfCode/tree/master/Day1))
+Day 2 ([here](https://github.com/fortunatodeangelis/AdventOfCode/tree/master/Day2))
